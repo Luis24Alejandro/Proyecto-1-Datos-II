@@ -1,0 +1,3 @@
+/home/luis24/Escritorio/Proyecto 1 MPointers/cmake-build-debug/CMakeFiles/Proyecto_1_MPointers.dir
+/home/luis24/Escritorio/Proyecto 1 MPointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/luis24/Escritorio/Proyecto 1 MPointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
